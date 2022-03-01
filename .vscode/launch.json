@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "name_your_price",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "name_your_price (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter Tests",
+            "program": "test",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
